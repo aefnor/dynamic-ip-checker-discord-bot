@@ -107,8 +107,6 @@ Desktop.ini
 .dmypy.json
 dmypy.json
 
-# venv
-venv/
 
 # message_id
 message_id.txt
